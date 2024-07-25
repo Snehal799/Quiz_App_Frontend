@@ -2,7 +2,9 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: rgb(156, 249, 234);
+  background-image: url('https://www.leadquizzes.com/wp-content/uploads/2019/02/New-blog-graphic.jpg');
+  background-size: cover;
+  background-repeat: repeat;
   color: #333;
   margin: 0;
   padding: 0;
