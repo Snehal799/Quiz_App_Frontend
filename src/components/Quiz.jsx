@@ -96,7 +96,7 @@ const Quiz = ({ userName, email }) => {
   }
 
   if (questions.length === 0) {
-    return <div>Loading questions...</div>;
+    return <div id = 'load'>Loading questions...</div>;
   }
 
   return (
