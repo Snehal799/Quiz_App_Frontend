@@ -71,6 +71,10 @@ body {
   background-color: #45a049;
   transform: scale(1.05);
 }
+#load{
+  color: white;
+  font-size: 20px;
+}
 
 /* Quiz Page */
 .quiz {
